@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLKho">
+  <DataContextMoniker Name="/QLKhoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2025163e-5add-4d35-9784-924b24573024" absoluteBounds="4, 1.125, 2, 1.9631982421874998">
+      <DataClassMoniker Name="/QLKhoDataContext/ChiTietPhieuNhap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="48c7eee3-64d7-4af5-ab30-b8141672a662" absoluteBounds="4.015, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dae39eb4-7fa3-49a7-ac96-430574b3f943" absoluteBounds="4.75, 3.5, 1.25, 1.9631982421874987">
+      <DataClassMoniker Name="/QLKhoDataContext/HangHoa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6701fb8f-601e-406a-bbe7-30f0dd0a95eb" absoluteBounds="4.765, 3.96, 1.2200000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bd24f536-d8e9-44d3-8121-4d530850b6ed" absoluteBounds="0.75, 1.25, 1.25, 1.1939925130208338">
+      <DataClassMoniker Name="/QLKhoDataContext/Kho" />
+      <nestedChildShapes>
+        <elementListCompartment Id="88c7236b-33b0-418b-913b-321309b0887f" absoluteBounds="0.765, 1.71, 1.2200000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="41fc8d86-deac-4218-bb8b-fe299ec75aea" absoluteBounds="2.625, 3.625, 1.5, 1.3862939453124987">
+      <DataClassMoniker Name="/QLKhoDataContext/LoaiHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aa3577ea-3d6a-4f04-a906-6ec2cc349e37" absoluteBounds="2.64, 4.085, 1.4700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="db3e6dda-0dc8-4931-86ac-bceb09fe14a9" absoluteBounds="0.5, 2.75, 1.5, 2.9247054036458326">
+      <DataClassMoniker Name="/QLKhoDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e096cb31-796e-4dbd-aec0-02c1cafc8776" absoluteBounds="0.515, 3.21, 1.4700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c93859cf-586e-46b1-8b11-96dd9170bad8" absoluteBounds="2.375, 1.125, 1.25, 1.7708968098958333">
+      <DataClassMoniker Name="/QLKhoDataContext/PhieuNhap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ff6c2ab4-7a48-40bd-aab9-d238168252fb" absoluteBounds="2.39, 1.585, 1.2200000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.375 : 3.5); (5.375 : 3.0881982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLKhoDataContext/HangHoa/HangHoa_ChiTietPhieuNhap" />
+      <nodes>
+        <classShapeMoniker Id="dae39eb4-7fa3-49a7-ac96-430574b3f943" />
+        <classShapeMoniker Id="2025163e-5add-4d35-9784-924b24573024" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.125 : 4.31814697265625); (4.75 : 4.31814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLKhoDataContext/LoaiHang/LoaiHang_HangHoa" />
+      <nodes>
+        <classShapeMoniker Id="41fc8d86-deac-4218-bb8b-fe299ec75aea" />
+        <classShapeMoniker Id="dae39eb4-7fa3-49a7-ac96-430574b3f943" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.625 : 2.01044840494792); (4 : 2.01044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLKhoDataContext/PhieuNhap/PhieuNhap_ChiTietPhieuNhap" />
+      <nodes>
+        <classShapeMoniker Id="c93859cf-586e-46b1-8b11-96dd9170bad8" />
+        <classShapeMoniker Id="2025163e-5add-4d35-9784-924b24573024" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2 : 1.84699625651042); (2.375 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLKhoDataContext/Kho/Kho_PhieuNhap" />
+      <nodes>
+        <classShapeMoniker Id="bd24f536-d8e9-44d3-8121-4d530850b6ed" />
+        <classShapeMoniker Id="c93859cf-586e-46b1-8b11-96dd9170bad8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.25 : 2.75); (1.25 : 2.5964); (2.2214 : 2.5964); (2.2214 : 2.40269853320313); (2.375 : 2.40269853320313)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLKhoDataContext/NhanVien/NhanVien_PhieuNhap" />
+      <nodes>
+        <classShapeMoniker Id="db3e6dda-0dc8-4931-86ac-bceb09fe14a9" />
+        <classShapeMoniker Id="c93859cf-586e-46b1-8b11-96dd9170bad8" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

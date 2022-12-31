@@ -1,0 +1,37 @@
+D:\CShapProject\QuanLyKho041\BLL\bin\Debug\BLL.dll
+D:\CShapProject\QuanLyKho041\BLL\bin\Debug\BLL.pdb
+D:\CShapProject\QuanLyKho041\BLL\bin\Debug\DAL.dll
+D:\CShapProject\QuanLyKho041\BLL\bin\Debug\DAL.pdb
+D:\CShapProject\QuanLyKho041\BLL\bin\Debug\DAL.dll.config
+D:\CShapProject\QuanLyKho041\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\CShapProject\QuanLyKho041\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CShapProject\QuanLyKho041\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CShapProject\QuanLyKho041\BLL\obj\Debug\BLL.dll
+D:\CShapProject\QuanLyKho041\BLL\obj\Debug\BLL.pdb
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\bin\Debug\BLL.dll
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\bin\Debug\BLL.pdb
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\bin\Debug\DAL.dll
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\bin\Debug\DAL.pdb
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\obj\Debug\BLL.dll
+F:\CN.net\Source Môn .Net\QuanLyKho041\BLL\obj\Debug\BLL.pdb
+F:\CN.net\QuanLyKho041\BLL\bin\Debug\BLL.dll
+F:\CN.net\QuanLyKho041\BLL\bin\Debug\BLL.pdb
+F:\CN.net\QuanLyKho041\BLL\bin\Debug\DAL.dll
+F:\CN.net\QuanLyKho041\BLL\bin\Debug\DAL.pdb
+F:\CN.net\QuanLyKho041\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\CN.net\QuanLyKho041\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\CN.net\QuanLyKho041\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\CN.net\QuanLyKho041\BLL\obj\Debug\BLL.dll
+F:\CN.net\QuanLyKho041\BLL\obj\Debug\BLL.pdb
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\bin\Debug\BLL.dll
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\bin\Debug\BLL.pdb
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\bin\Debug\DAL.dll
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\bin\Debug\DAL.pdb
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\obj\Debug\BLL.dll
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\BLL\obj\Debug\BLL.pdb

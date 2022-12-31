@@ -1,0 +1,102 @@
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.exe.config
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.exe
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.pdb
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csprojAssemblyReference.cache
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.Form1.resources
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.Properties.Resources.resources
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.GenerateResource.cache
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.CoreCompileInputs.cache
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.exe
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.pdb
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.CopyComplete
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmLogin.resources
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\BLL.dll
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.dll
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\BLL.pdb
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.pdb
+D:\CShapProject\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.dll.config
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmRegister.resources
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmProfile.resources
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmChangePw.resources
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmProducts.resources
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmCategory.resources
+D:\CShapProject\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmListProduct.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.exe.config
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.exe
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.pdb
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\bin\Debug\BLL.dll
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.dll
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\bin\Debug\System.Windows.Forms.Ribbon.dll
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\bin\Debug\BLL.pdb
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.pdb
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.AssemblyReference.cache
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.SuggestedBindingRedirects.cache
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.Form1.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmCategory.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmChangePw.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmListProduct.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmLogin.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmProducts.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmProfile.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmRegister.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.Properties.Resources.resources
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.GenerateResource.cache
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.CoreCompileInputs.cache
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.CopyComplete
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.exe
+F:\CN.net\Source Môn .Net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.pdb
+F:\CN.net\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.exe
+F:\CN.net\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.pdb
+F:\CN.net\QuanLyKho041\QuanLyKho041\bin\Debug\BLL.dll
+F:\CN.net\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.dll
+F:\CN.net\QuanLyKho041\QuanLyKho041\bin\Debug\System.Windows.Forms.Ribbon.dll
+F:\CN.net\QuanLyKho041\QuanLyKho041\bin\Debug\BLL.pdb
+F:\CN.net\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.pdb
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.AssemblyReference.cache
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.SuggestedBindingRedirects.cache
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.Form1.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmCategory.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmChangePw.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmListProduct.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmLogin.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmProducts.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmProfile.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmRegister.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.Properties.Resources.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.GenerateResource.cache
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.CoreCompileInputs.cache
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.CopyComplete
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.exe
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.pdb
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.UpdateProdust.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.QLNhanVien.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.ThemNV.resources
+F:\CN.net\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.SuaNV.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.exe
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\bin\Debug\QuanLyKho041.pdb
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\bin\Debug\BLL.dll
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.dll
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\bin\Debug\System.Windows.Forms.Ribbon.dll
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\bin\Debug\BLL.pdb
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\bin\Debug\DAL.pdb
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.AssemblyReference.cache
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.SuggestedBindingRedirects.cache
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.Form1.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmCategory.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmChangePw.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmListProduct.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmLogin.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmProducts.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmProfile.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.FrmRegister.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.Properties.Resources.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.QLNhanVien.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.SuaNV.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.ThemNV.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.UpdateProdust.resources
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.GenerateResource.cache
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.CoreCompileInputs.cache
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.csproj.CopyComplete
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.exe
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\QuanLyKho041\obj\Debug\QuanLyKho041.pdb

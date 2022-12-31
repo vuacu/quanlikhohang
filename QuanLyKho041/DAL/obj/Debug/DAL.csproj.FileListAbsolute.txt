@@ -1,0 +1,25 @@
+D:\CShapProject\QuanLyKho041\DAL\bin\Debug\DAL.dll.config
+D:\CShapProject\QuanLyKho041\DAL\bin\Debug\DAL.dll
+D:\CShapProject\QuanLyKho041\DAL\bin\Debug\DAL.pdb
+D:\CShapProject\QuanLyKho041\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\CShapProject\QuanLyKho041\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\CShapProject\QuanLyKho041\DAL\obj\Debug\DAL.dll
+D:\CShapProject\QuanLyKho041\DAL\obj\Debug\DAL.pdb
+F:\CN.net\Source Môn .Net\QuanLyKho041\DAL\bin\Debug\DAL.dll
+F:\CN.net\Source Môn .Net\QuanLyKho041\DAL\bin\Debug\DAL.pdb
+F:\CN.net\Source Môn .Net\QuanLyKho041\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\CN.net\Source Môn .Net\QuanLyKho041\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\CN.net\Source Môn .Net\QuanLyKho041\DAL\obj\Debug\DAL.dll
+F:\CN.net\Source Môn .Net\QuanLyKho041\DAL\obj\Debug\DAL.pdb
+F:\CN.net\QuanLyKho041\DAL\bin\Debug\DAL.dll
+F:\CN.net\QuanLyKho041\DAL\bin\Debug\DAL.pdb
+F:\CN.net\QuanLyKho041\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\CN.net\QuanLyKho041\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\CN.net\QuanLyKho041\DAL\obj\Debug\DAL.dll
+F:\CN.net\QuanLyKho041\DAL\obj\Debug\DAL.pdb
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\DAL\bin\Debug\DAL.dll
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\DAL\bin\Debug\DAL.pdb
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\DAL\obj\Debug\DAL.dll
+F:\CN.net\Nhom8-quanlikhohang\QuanLyKho041\DAL\obj\Debug\DAL.pdb
